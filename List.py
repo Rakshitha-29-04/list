@@ -1,5 +1,5 @@
 # Creating a list
-numbers = [10, 20, 30, 40, 50]
+#numbers = [10, 20, 30, 40, 50]
 print("Original list:", numbers)
 
 # Accessing elements
@@ -39,4 +39,5 @@ print("Reversed list:", numbers)
 print("Length of list:", len(numbers))
 print("Sum of elements:", sum(numbers))
 print("Maximum element:", max(numbers))
+
 print("Minimum element:", min(numbers))
